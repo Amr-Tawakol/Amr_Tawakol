@@ -1,0 +1,7 @@
+../Core/Src/Parking.c:43:6:Parking_Right	8	static
+../Core/Src/Parking.c:86:6:Parking_Left	8	static
+../Core/Src/Parking.c:136:6:ACCIDENT	8	static
+../Core/Src/Parking.c:145:6:Right_BLIND_MODE	8	static
+../Core/Src/Parking.c:162:6:Left_BLIND_MODE	8	static
+../Core/Src/Parking.c:179:6:Right_Parking	8	static
+../Core/Src/Parking.c:209:6:Left_Parking	8	static

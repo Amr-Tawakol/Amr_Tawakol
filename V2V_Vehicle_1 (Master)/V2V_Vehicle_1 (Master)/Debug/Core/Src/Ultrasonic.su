@@ -1,0 +1,8 @@
+../Core/Src/Ultrasonic.c:13:6:delay	16	static
+../Core/Src/Ultrasonic.c:19:6:Front_Sensor_Read	40	static
+../Core/Src/Ultrasonic.c:42:6:Back_Sensor_Read	40	static
+../Core/Src/Ultrasonic.c:65:6:Right_Sensor_Read	40	static
+../Core/Src/Ultrasonic.c:88:6:Left_Sensor_Read	40	static
+../Core/Src/Ultrasonic.c:111:6:Right_Blind_Sensor_Read	40	static
+../Core/Src/Ultrasonic.c:134:6:Left_Blind_Sensor_Read	40	static
+../Core/Src/Ultrasonic.c:157:6:Set_Ultrasonic_View	16	static

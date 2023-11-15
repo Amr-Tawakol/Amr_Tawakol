@@ -1,0 +1,9 @@
+../Core/Src/Motion.c:13:6:Forward_Moving	8	static
+../Core/Src/Motion.c:23:6:Left_Moving	8	static
+../Core/Src/Motion.c:31:6:Right_Moving	8	static
+../Core/Src/Motion.c:39:6:Backword_Moving	8	static
+../Core/Src/Motion.c:47:6:Stop_Moving	8	static
+../Core/Src/Motion.c:55:6:FULL_SPEED	4	static
+../Core/Src/Motion.c:62:6:HALF_SPEED	4	static
+../Core/Src/Motion.c:70:6:QUARTER_SPEED	4	static
+../Core/Src/Motion.c:77:6:NO_SPEED	4	static
